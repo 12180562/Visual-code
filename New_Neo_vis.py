@@ -2,14 +2,11 @@ import sys, os
 sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname(__file__))))
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
-import matplotlib.pyplot as pyplot
 import numpy as np
 import pandas as pd
 import re
 from math import *
 import glob
-from matplotlib.offsetbox import OffsetImage, AnnotationBbox
-from PIL import Image
 
 class Visualization:
     def __init__(self, L, B, Xo, Xo_list, Yo, Yo_list, Co, 
@@ -107,7 +104,6 @@ class Visualization:
         y1 = ((Rf**2)-(Rf**2/Rs**2)*(x1**2)) ** 0.5
         y2 = -((Ra**2)-(Ra**2/Rs**2)*(x1**2)) ** 0.5
 
-
         x2 = np.linspace(-Rp+0.0001, 0, 50)
         y3 = ((Rf**2)-(Rf**2/Rp**2)*x2**2) ** 0.5
         y4 = -((Ra**2)-(Ra**2/Rp**2)*x2**2) ** 0.5
@@ -131,11 +127,10 @@ class Visualization:
         ship_boundary5 = self.transform(-self.B/2, self.L/10, C, X, Y)
         return ship_boundary1, ship_boundary2, ship_boundary3, ship_boundary4, ship_boundary5
 
-    def highlight_points(axes, traj_x, traj_y, color):        
-        highlight_interval = 1000
+    def highlight_points(self, axes, traj_x, traj_y, color):        
+        highlight_interval = 100
         for i in range(0, len(traj_x), highlight_interval):
             axes[0, 0].scatter(traj_x[i], traj_y[i], c=color, s=10)
-
 
     def ploting(self, name = None):
         f,axes = plt.subplots(2, 2)
@@ -169,7 +164,7 @@ class Visualization:
         Yt3_traj = self.Yt3_list
 
         axes[0, 0].plot(Xo_traj, Yo_traj, 'g', label='OS')
-
+        
         for x, y in zip(Xt1_traj, Yt1_traj):
             axes[0, 0].scatter(x, y, c='r', s=1)
         for x, y in zip(Xt2_traj, Yt2_traj):
@@ -190,10 +185,9 @@ class Visualization:
 
 ###################### 1사분면 그림 ######################
 
-        width = 100
-        height = 100
-        
-        # colliscion cone
+        width = 40
+        height = 40
+
         cc1 = [[self.C1x, self.C2x], [self.C1x, self.C3x]]
         cc2 = [[self.C1y, self.C2y], [self.C1y, self.C3y]]
         cc3 = [[self.C4x, self.C5x], [self.C4x, self.C6x]]
@@ -206,7 +200,6 @@ class Visualization:
         Q5, Q6, Q7, Q8 = self.create_ship_domain(self.Rf2, self.Ra2, self.Rs2, self.Rp2)
         Q9, Q10, Q11, Q12 = self.create_ship_domain(self.Rf3, self.Ra3, self.Rs3, self.Rp3)
 
-        # TODO for all TS
         TS_boundary1, TS_boundary2, TS_boundary3, TS_boundary4, TS_boundary5 = self.create_coord_ship(self.Xt1, self.Yt1, self.Ct1)
         TS_boundary6, TS_boundary7, TS_boundary8, TS_boundary9, TS_boundary10 = self.create_coord_ship(self.Xt2, self.Yt2, self.Ct2)
         TS_boundary11, TS_boundary12, TS_boundary13, TS_boundary14, TS_boundary15 = self.create_coord_ship(self.Xt3, self.Yt3, self.Ct3)
@@ -218,11 +211,7 @@ class Visualization:
         axes[0,1].grid(linestyle='-.')
         axes[0,1].set_xlabel('X axis (m)', labelpad=1, fontsize=10)
         axes[0,1].set_ylabel('Y axis (m)', labelpad=1, fontsize=10)
-        # TODO auto axis
-        # axes[0,1].axis([self.Xo-45, self.Xo+45, self.Yo-25, self.Yo+65])
-        # axes[0,1].axis([self.Xo-10, self.Xo+10, self.Yo-10, self.Yo+10])
-        
-        axes[0, 1].axis([self.Xo - width / 2, self.Xo + width / 2, self.Yo - (height*(1/4)), self.Yo + (height*(3/4))])
+        axes[0, 1].axis([self.Xo - width / 2, self.Xo + width / 2, self.Yo - (height*(1/5)), self.Yo + (height*(4/5))])
         
         axes[0,1].add_patch(
             patches.Polygon(
@@ -233,7 +222,6 @@ class Visualization:
             )
         )
 
-        # TODO for all TS
         axes[0,1].add_patch(
             patches.Polygon(
                 (TS_boundary1, TS_boundary2, TS_boundary3, TS_boundary4, TS_boundary5),
@@ -260,9 +248,7 @@ class Visualization:
                 facecolor='y'
             )
         )
-
-        # TODO for all TS
-        # axes[0,1].plot(Q1[0], Q1[1], c='r', label = 'Ship domain for TS1')
+        
         axes[0,1].plot(Q1[0], Q1[1], c='r')
         axes[0,1].plot(Q2[0], Q2[1], c='r')
         axes[0,1].plot(Q3[0], Q3[1], c='r')
@@ -276,13 +262,9 @@ class Visualization:
         axes[0,1].plot(Q11[0], Q11[1], c='y')
         axes[0,1].plot(Q12[0], Q12[1], c='y')
 
-        # TODO for all TS
-        for i in range(len(cc1)):
-            axes[0,1].plot(cc1[i], cc2[i], color='k')
-        for i in range(len(cc3)):
-            axes[0,1].plot(cc3[i], cc4[i], color='k')
-        for i in range(len(cc5)):
-            axes[0,1].plot(cc5[i], cc6[i], color='k')
+        for cc in [cc1, cc2, cc3, cc4, cc5, cc6]:
+            for i in range(len(cc[0])):
+                axes[0, 1].plot(cc[0][i], cc[1][i], color='k')
 
         axes[0,1].fill([self.C1x, self.C2x, self.C3x], [self.C1y, self.C2y, self.C3y], color='r', alpha=0.7)
         axes[0,1].fill([self.C4x, self.C5x, self.C6x], [self.C4y, self.C5y, self.C6y], color='b', alpha=0.5)
@@ -295,111 +277,60 @@ class Visualization:
 ###################### 3사분면 그림 ######################        
 
         time_x = list(range(1, self.time+1, 1))
-        dcpa1_ya = self.DCPA1
-        dcpa2_ya = self.DCPA2
-        dcpa3_ya = self.DCPA3
-        tcpa1_ya = self.TCPA1
-        tcpa2_ya = self.TCPA2
-        tcpa3_ya = self.TCPA3
+        dcpa1_ya, dcpa2_ya, dcpa3_ya = self.DCPA1, self.DCPA2, self.DCPA3
+        tcpa1_ya, tcpa2_ya, tcpa3_ya = self.TCPA1, self.TCPA2, self.TCPA3
 
-        dcpa1_yb = []
-        dcpa2_yb = []
-        dcpa3_yb = []
-        tcpa1_yb = []
-        tcpa2_yb = []
-        tcpa3_yb = []
-
-        for i in range(len(time_x)-len(dcpa1_ya)):
-            dcpa1_yb.append(0)
-        for i in range(len(time_x)-len(dcpa2_ya)):
-            dcpa2_yb.append(0)
-        for i in range(len(time_x)-len(dcpa3_ya)):
-            dcpa3_yb.append(0)
-
-        dcpa1_y = dcpa1_ya + dcpa1_yb
-        dcpa2_y = dcpa2_ya + dcpa2_yb
-        dcpa3_y = dcpa3_ya + dcpa3_yb
-
-        for i in range(len(time_x)-len(tcpa1_ya)):
-            tcpa1_yb.append(0)
-        for i in range(len(time_x)-len(tcpa2_ya)):
-            tcpa2_yb.append(0)
-        for i in range(len(time_x)-len(tcpa3_ya)):
-            tcpa3_yb.append(0)
-
-        tcpa1_y = tcpa1_ya + tcpa1_yb
-        tcpa2_y = tcpa2_ya + tcpa2_yb
-        tcpa3_y = tcpa3_ya + tcpa3_yb
+        dcpa1_y = np.pad(dcpa1_ya, (0, len(time_x) - len(dcpa1_ya)), 'constant')
+        dcpa2_y = np.pad(dcpa2_ya, (0, len(time_x) - len(dcpa2_ya)), 'constant')
+        dcpa3_y = np.pad(dcpa3_ya, (0, len(time_x) - len(dcpa3_ya)), 'constant')
+        tcpa1_y = np.pad(tcpa1_ya, (0, len(time_x) - len(tcpa1_ya)), 'constant')
+        tcpa2_y = np.pad(tcpa2_ya, (0, len(time_x) - len(tcpa2_ya)), 'constant')
+        tcpa3_y = np.pad(tcpa3_ya, (0, len(time_x) - len(tcpa3_ya)), 'constant')
 
         axes[1,0].plot(time_x, dcpa1_y, 'r', label="DCPA1")
         axes[1,0].plot(time_x, dcpa2_y, 'b', label="DCPA2")
         axes[1,0].plot(time_x, dcpa3_y, 'y', label="DCPA3")
-        axes[1,0].grid(linestyle='-.')
-        axes[1,0].set_xlabel('Time (s)', labelpad=1, fontsize=16)
-        axes[1,0].set_ylabel('DCPA', labelpad=1, fontsize=16)
-
-        axes[1,0].axis([0, self.time, 0, max(max(dcpa1_y), max(dcpa2_y), max(dcpa3_y))]) # 로그 스케일 범위 설정
+        # axes[1,0].grid(linestyle='-.')
+        axes[1,0].set_xlabel('Time (s)', labelpad=1, fontsize=10)
+        axes[1,0].set_ylabel('DCPA', labelpad=1, fontsize=10)
+        axes[1,0].axis([0, self.time, 0, max(max(dcpa1_y), max(dcpa2_y), max(dcpa3_y))])
 
         ax2 = axes[1,0].twinx()
         ax2.plot(time_x, tcpa1_y, 'r--', label="TCPA1")
         ax2.plot(time_x, tcpa2_y, 'b--', label="TCPA2")
         ax2.plot(time_x, tcpa3_y, 'y--', label="TCPA3")
-        # ax2.set_ylabel('TCPA', labelpad=1)
-        # ax2.yaxis.label.set_label_coords(1.05, 0.5)
         ax2.axis([0, self.time, min(min(tcpa1_y), min(tcpa2_y), min(tcpa3_y)), max(max(tcpa1_y), max(tcpa2_y), max(tcpa3_y))])
-        # ax2.tick_params(axis='y')
 
         lines, labels = axes[1,0].get_legend_handles_labels()
         lines2, labels2 = ax2.get_legend_handles_labels()
         axes[1,0].legend(lines + lines2, labels + labels2, loc='best', fontsize='large')
 
-    ###################### 4사분면 그림 ######################
+###################### 4사분면 그림 ######################  
 
-        time_x = list(range(1, self.time+1, 1))
-        cri1_ya = self.cri1
-        cri2_ya = self.cri2
-        cri3_ya = self.cri3
-        cri1_yb = []
-        cri2_yb = []
-        cri3_yb = []
-
+        cri1_ya, cri2_ya, cri3_ya = self.cri1, self.cri2, self.cri3
         Heading_ya = self.Heading
-        Heading_yb = []
 
-        for i in range(len(time_x)-len(cri1_ya)):
-            cri1_yb.append(0)
-        for i in range(len(time_x)-len(cri2_ya)):
-            cri2_yb.append(0)
-        for i in range(len(time_x)-len(cri3_ya)):
-            cri3_yb.append(0)
-
-        cri1_y = cri1_ya + cri1_yb
-        cri2_y = cri2_ya + cri2_yb
-        cri3_y = cri3_ya + cri3_yb
-
-        for i in range(len(time_x)-len(Heading_ya)):
-            Heading_yb.append(0)
-        Heading_y = Heading_ya + Heading_yb
+        cri1_y = np.pad(cri1_ya, (0, len(time_x) - len(cri1_ya)), 'constant')
+        cri2_y = np.pad(cri2_ya, (0, len(time_x) - len(cri2_ya)), 'constant')
+        cri3_y = np.pad(cri3_ya, (0, len(time_x) - len(cri3_ya)), 'constant')
+        Heading_y = np.pad(Heading_ya, (0, len(time_x) - len(Heading_ya)), 'constant')
 
         axes[1,1].plot(time_x, cri1_y, 'r--', label='CRI1')
-        axes[1,1].fill_between(time_x[0:], cri1_y[0:], color='r', alpha=0.1)
-
+        axes[1,1].fill_between(time_x, cri1_y, color='r', alpha=0)
         axes[1,1].plot(time_x, cri2_y, 'b--', label='CRI2')
-        axes[1,1].fill_between(time_x[0:], cri2_y[0:], color='b', alpha=0.1)
-
+        axes[1,1].fill_between(time_x, cri2_y, color='b', alpha=0)
         axes[1,1].plot(time_x, cri3_y, 'y--', label='CRI3')
-        axes[1,1].fill_between(time_x[0:], cri3_y[0:], color='y', alpha=0.1)
+        axes[1,1].fill_between(time_x, cri3_y, color='y', alpha=0)
 
-        # axes[1,1].axhline(y = 0.66, xmin = 0, xmax = 1, color='r')
-        axes[1,1].set_xlabel('Time (s)', labelpad=1, fontsize=16)
-        axes[1,1].set_ylabel('CRI', labelpad=1, fontsize=15)
+        axes[1,1].set_xlabel('Time (s)', labelpad=1, fontsize=10)
+        axes[1,1].set_ylabel('CRI', labelpad=1, fontsize=10)
         axes[1,1].axis([0, self.time, 0, 1])
 
         ax2 = axes[1,1].twinx()
         ax2.plot(time_x, Heading_y, 'g-', label='Heading', )
-        ax2.fill_between(time_x[0:], Heading_y[0:], color='g', alpha=0.05)
+        ax2.fill_between(time_x, Heading_y, color='g', alpha=0)
         ax2.set_ylim(-180, 180)
-        ax2.set_ylabel('Heading(deg)', labelpad=1, fontsize=16, rotation=270)
+        ax2.set_ylabel('Heading(deg)', labelpad=1, fontsize=10, rotation=270)
         ax2.yaxis.tick_right()
 
         lines, labels = axes[1,1].get_legend_handles_labels()
@@ -407,11 +338,10 @@ class Visualization:
         axes[1,1].legend(lines + lines2, labels + labels2, loc='best', fontsize='large')
 
         if name:
-            pyplot.savefig(name, dpi = 600)
-
+            plt.savefig(name, dpi=150)
         plt.tight_layout()
         plt.cla()
-        plt.close() 
+        plt.close()
 
 ship_L = 163.55
 ship_B = 27.4
@@ -433,15 +363,11 @@ vo_info = None
 
 for key, filename in file_patterns.items():
     file_path = f'{directory_path}/*{filename}*.csv'
-
     matching_files = glob.glob(file_path)
     
-    # 매칭된 파일이 있는지 확인
     if matching_files:
-        # 첫 번째 매칭된 파일 경로를 얻음
         file_to_read = matching_files[0]
-        
-        # CSV 파일을 읽어옴
+
         df = pd.read_csv(file_to_read)
         if key == 'frm':
             frm_info = df
@@ -462,9 +388,9 @@ folder_name = "fig"
 
 if not os.path.exists(folder_name):
     os.makedirs(folder_name)
-    print(f"폴더 '{folder_name}'가 생성되었습니다.")
+    print(f"Folder '{folder_name}' has been created.")
 else:
-    print(f"폴더 '{folder_name}'가 이미 존재합니다.")
+    print(f"Folder '{folder_name}' already exists.")
 
 time = len(cri_info)
 dcpa1_list = []
@@ -494,47 +420,18 @@ def char_to_num(str):
 
     return result
 
-def char_to_str(str):
-    result = re.findall(r'\w+\s?-?\w+', str)
-
-    return result
-
-def flt(input):
-    str = re.findall(r'-?\d+.\d+', input)
-    result = float(str[0])
-    
-    return result
-
 data_len = min(len(frm_info), len(wp_info), len(cri_info), len(vo_info))
-number_of_ts = len(char_to_num(frm_info.loc[2]['.m_nShipID']))
 
-for i in range(data_len):
-    goal_point = re.findall(r'-?\d+.\d+', wp_info.loc[i]['.group_wpts_info'])
-    goal_Xo = float(goal_point[1])
-    goal_Yo = float(goal_point[3])
-    # goal_Xt1 = float(goal_point[3])
-    # goal_Yt1 = float(goal_point[3])
-    # goal_Xt2 = float(goal_point[3])
-    # goal_Yt2 = float(goal_point[3])
-
-    ship_ID = char_to_num(frm_info.loc[i]['.m_nShipID'])
-    OS_ship_ID = ship_ID[0]
-    TS1_ship_ID = ship_ID[1]
-    TS2_ship_ID = ship_ID[2]
-    TS3_ship_ID = ship_ID[3]
-
+for i in range(0, data_len):
     PosX = char_to_num(frm_info.loc[i]['.m_fltPos_X'])
     PosY = char_to_num(frm_info.loc[i]['.m_fltPos_Y'])
 
     Xo = PosY[0]
     Yo = PosX[0]
-
     Xt1 = PosY[1]
     Yt1 = PosX[1]
-
     Xt2 = PosY[2]
     Yt2 = PosX[2]
-
     Xt3 = PosY[3]
     Yt3 = PosX[3]
 
@@ -556,11 +453,6 @@ for i in range(data_len):
     V_opt = char_to_num(vo_info.loc[i]['.V_opt'])
     Vx = V_opt[1]
     Vy = V_opt[0]
-
-    enc_all = char_to_str(cri_info.loc[i]['.encounter_classification'])
-    enc1 = enc_all[0]
-    enc2 = enc_all[1]
-    enc3 = enc_all[2]
 
     dcpa_all = char_to_num(cri_info.loc[i]['.DCPA'])
     dcpa1 = round(dcpa_all[0], 1)
@@ -636,6 +528,7 @@ for i in range(data_len):
     C1x, C1y, C2x, C2y, C3x, C3y, C4x, C4y, C5x, C5y, C6x, C6y, C7x, C7y, C8x, C8y, C9x, C9y, 
     dcpa1_list, dcpa2_list, dcpa3_list, tcpa1_list, tcpa2_list, tcpa3_list, cri1_list, cri2_list, cri3_list, Heading_list, time)
     
+    print(i)
     print(round(i/len(frm_info)*100,2),"%")
     
     Save_image = aa.ploting(name=f'{folder_name}/snap{str(i)}.png')

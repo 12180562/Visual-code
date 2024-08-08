@@ -127,6 +127,11 @@ class Visualization:
         ship_boundary5 = self.transform(-self.B/2, self.L/10, C, X, Y)
         return ship_boundary1, ship_boundary2, ship_boundary3, ship_boundary4, ship_boundary5
 
+    def highlight_points(axes, traj_x, traj_y, color):        
+        highlight_interval = 1000
+        for i in range(0, len(traj_x), highlight_interval):
+            axes[0, 0].scatter(traj_x[i], traj_y[i], c=color, s=10)
+
     def ploting(self, name = None):
         f,axes = plt.subplots(2, 2)
         f.set_size_inches((12, 12))
