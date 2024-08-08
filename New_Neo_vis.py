@@ -12,12 +12,15 @@ from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 from PIL import Image
 
 class Visualization:
-    def __init__(self, Xo, Xo_list, Yo, Yo_list, Co, 
+    def __init__(self, L, B, Xo, Xo_list, Yo, Yo_list, Co, 
     Xt1, Xt1_list, Yt1, Yt1_list, Xt2, Xt2_list, Yt2, Yt2_list, Xt3, Xt3_list, Yt3, Yt3_list,
     Ct1, Ct2, Ct3, Rf1, Ra1, Rs1, Rp1, Rf2, Ra2, Rs2, Rp2, Rf3, Ra3, Rs3, Rp3, Vx, Vy,
     C1x, C1y, C2x, C2y, C3x, C3y, C4x, C4y, C5x, C5y, C6x, C6y, C7x, C7y, C8x, C8y, C9x, C9y, 
     DCPA1, DCPA2, DCPA3, TCPA1, TCPA2, TCPA3, cri1, cri2, cri3, Heading, time):
-
+        
+        self.L = L
+        self.B = B
+        
         self.Xo = Xo
         self.Xo_list = Xo_list
         self.Yo = Yo
@@ -121,11 +124,18 @@ class Visualization:
         return Q1, Q2, Q3, Q4
 
     def create_coord_ship(self, X, Y, C):
-        ship_boundary1 = self.transform(0, 2.25, C, X, Y)
-        ship_boundary2 = self.transform(0.45, -2.25, C, X, Y)
-        ship_boundary3 = self.transform(-0.45, -2.25, C, X, Y)
-        
-        return ship_boundary1, ship_boundary2, ship_boundary3
+        ship_boundary1 = self.transform(0, self.L/2, C, X, Y)
+        ship_boundary2 = self.transform(self.B/2, self.L/10, C, X, Y)
+        ship_boundary3 = self.transform(self.B/2, -self.L/2, C, X, Y)
+        ship_boundary4 = self.transform(-self.B/2, -self.L/2, C, X, Y)
+        ship_boundary5 = self.transform(-self.B/2, self.L/10, C, X, Y)
+        return ship_boundary1, ship_boundary2, ship_boundary3, ship_boundary4, ship_boundary5
+
+    def highlight_points(axes, traj_x, traj_y, color):        
+        highlight_interval = 1000
+        for i in range(0, len(traj_x), highlight_interval):
+            axes[0, 0].scatter(traj_x[i], traj_y[i], c=color, s=10)
+
 
     def ploting(self, name = None):
         f,axes = plt.subplots(2, 2)
@@ -142,7 +152,7 @@ class Visualization:
         axes[0,0].set_ylabel('Y axis (m)', labelpad=1, fontsize=10)
         axes[0,0].axis([-200, 200, -50, 350])
         
-        axes[0,0].arrow(self.Xo, self.Yo, self.Vx, self.Vy, head_width=5, head_length=10, color='k')
+        axes[0,0].arrow(self.Xo, self.Yo, self.Vx, self.Vy, head_width=5, head_length=20, color='k')
 
         axes[0,0].text(self.Xo + 1, self.Yo + 1, 'OS')
         axes[0,0].text(self.Xt1 + 1, self.Yt1 + 1, 'TS1')
@@ -167,32 +177,10 @@ class Visualization:
         for x, y in zip(Xt3_traj, Yt3_traj):
             axes[0, 0].scatter(x, y, c='y', s=1)
 
-        highlight_interval = 1000
-
-        def highlight_points(axes, traj_x, traj_y, color):
-            for i in range(0, len(traj_x), highlight_interval):
-                axes[0, 0].scatter(traj_x[i], traj_y[i], c=color, s=10)
-
-        highlight_points(axes, Xo_traj, Yo_traj, 'g')
-        highlight_points(axes, Xt1_traj, Yt1_traj, 'r')
-        highlight_points(axes, Xt2_traj, Yt2_traj, 'b')
-        highlight_points(axes, Xt3_traj, Yt3_traj, 'y')
-        
-        # # Load the image
-        # ship_image_path = './pepe.png'  # 이미지 파일 경로를 지정하세요
-        # ship_image = Image.open(ship_image_path)
-
-        # # Function to add an image at a specific location
-        # def add_image(ax, image, x, y, zoom):
-        #     im = OffsetImage(image, zoom=zoom)
-        #     ab = AnnotationBbox(im, (x, y), frameon=False)
-        #     ax.add_artist(ab)
-
-        # # Add the ship image at the current positions
-        # add_image(axes[0, 0], ship_image, self.Xo, self.Yo, 0.03)
-        # add_image(axes[0, 0], ship_image, self.Xt1, self.Yt1, 0.03)
-        # add_image(axes[0, 0], ship_image, self.Xt2, self.Yt2, 0.03)
-        # add_image(axes[0, 0], ship_image, self.Xt3, self.Yt3, 0.03)
+        self.highlight_points(axes, Xo_traj, Yo_traj, 'g')
+        self.highlight_points(axes, Xt1_traj, Yt1_traj, 'r')
+        self.highlight_points(axes, Xt2_traj, Yt2_traj, 'b')
+        self.highlight_points(axes, Xt3_traj, Yt3_traj, 'y')
         
         axes[0, 0].plot([], [], 'r-', label='TS1')
         axes[0, 0].plot([], [], 'b-', label='TS2')
@@ -202,6 +190,9 @@ class Visualization:
 
 ###################### 1사분면 그림 ######################
 
+        width = 100
+        height = 100
+        
         # colliscion cone
         cc1 = [[self.C1x, self.C2x], [self.C1x, self.C3x]]
         cc2 = [[self.C1y, self.C2y], [self.C1y, self.C3y]]
@@ -210,30 +201,32 @@ class Visualization:
         cc5 = [[self.C7x, self.C8x], [self.C7x, self.C9x]]
         cc6 = [[self.C7y, self.C8y], [self.C7y, self.C9y]]
 
-        OS_boundary1, OS_boundary2, OS_boundary3 = self.create_coord_ship(self.Xo, self.Yo, self.Co)
+        OS_boundary1, OS_boundary2, OS_boundary3, OS_boundary4, OS_boundary5 = self.create_coord_ship(self.Xo, self.Yo, self.Co)
         Q1, Q2, Q3, Q4 = self.create_ship_domain(self.Rf1, self.Ra1, self.Rs1, self.Rp1)
         Q5, Q6, Q7, Q8 = self.create_ship_domain(self.Rf2, self.Ra2, self.Rs2, self.Rp2)
         Q9, Q10, Q11, Q12 = self.create_ship_domain(self.Rf3, self.Ra3, self.Rs3, self.Rp3)
 
         # TODO for all TS
-        TS_boundary1, TS_boundary2, TS_boundary3 = self.create_coord_ship(self.Xt1, self.Yt1, self.Ct1)
-        TS_boundary4, TS_boundary5, TS_boundary6 = self.create_coord_ship(self.Xt2, self.Yt2, self.Ct2)
-        TS_boundary7, TS_boundary8, TS_boundary9 = self.create_coord_ship(self.Xt3, self.Yt3, self.Ct3)
+        TS_boundary1, TS_boundary2, TS_boundary3, TS_boundary4, TS_boundary5 = self.create_coord_ship(self.Xt1, self.Yt1, self.Ct1)
+        TS_boundary6, TS_boundary7, TS_boundary8, TS_boundary9, TS_boundary10 = self.create_coord_ship(self.Xt2, self.Yt2, self.Ct2)
+        TS_boundary11, TS_boundary12, TS_boundary13, TS_boundary14, TS_boundary15 = self.create_coord_ship(self.Xt3, self.Yt3, self.Ct3)
         
-        axes[0,1].set_xticks(np.arange(-600, 600, 10))
+        axes[0,1].set_xticks(np.arange(-600, 600, 5))
         axes[0,1].tick_params(axis='x', labelrotation=45)
-        axes[0,1].set_yticks(np.arange(-600, 600, 10))
+        axes[0,1].set_yticks(np.arange(-600, 600, 5))
         axes[0,1].set_aspect('equal')
         axes[0,1].grid(linestyle='-.')
         axes[0,1].set_xlabel('X axis (m)', labelpad=1, fontsize=10)
         axes[0,1].set_ylabel('Y axis (m)', labelpad=1, fontsize=10)
         # TODO auto axis
         # axes[0,1].axis([self.Xo-45, self.Xo+45, self.Yo-25, self.Yo+65])
-        axes[0,1].axis([self.Xo-50, self.Xo+50, self.Yo-50, self.Yo+50])
-
+        # axes[0,1].axis([self.Xo-10, self.Xo+10, self.Yo-10, self.Yo+10])
+        
+        axes[0, 1].axis([self.Xo - width / 2, self.Xo + width / 2, self.Yo - (height*(1/4)), self.Yo + (height*(3/4))])
+        
         axes[0,1].add_patch(
             patches.Polygon(
-                (OS_boundary1, OS_boundary2, OS_boundary3),
+                (OS_boundary1, OS_boundary2, OS_boundary3, OS_boundary4, OS_boundary5),
                 closed=True,
                 edgecolor='black',
                 facecolor='Green'
@@ -243,7 +236,7 @@ class Visualization:
         # TODO for all TS
         axes[0,1].add_patch(
             patches.Polygon(
-                (TS_boundary1, TS_boundary2, TS_boundary3),
+                (TS_boundary1, TS_boundary2, TS_boundary3, TS_boundary4, TS_boundary5),
                 closed=True,
                 edgecolor='black',
                 facecolor='Red'
@@ -252,7 +245,7 @@ class Visualization:
 
         axes[0,1].add_patch(
             patches.Polygon(
-                (TS_boundary4, TS_boundary5, TS_boundary6),
+                (TS_boundary6, TS_boundary7, TS_boundary8, TS_boundary9, TS_boundary10),
                 closed=True,
                 edgecolor='black',
                 facecolor='Blue'
@@ -261,7 +254,7 @@ class Visualization:
 
         axes[0,1].add_patch(
             patches.Polygon(
-                (TS_boundary7, TS_boundary8, TS_boundary9),
+                (TS_boundary11, TS_boundary12, TS_boundary13, TS_boundary14, TS_boundary15),
                 closed=True,
                 edgecolor='black',
                 facecolor='y'
@@ -361,8 +354,7 @@ class Visualization:
         axes[1,0].legend(lines + lines2, labels + labels2, loc='best', fontsize='large')
 
     ###################### 4사분면 그림 ######################
-    
-        # TODO for all ship
+
         time_x = list(range(1, self.time+1, 1))
         cri1_ya = self.cri1
         cri2_ya = self.cri2
@@ -415,7 +407,7 @@ class Visualization:
         axes[1,1].legend(lines + lines2, labels + labels2, loc='best', fontsize='large')
 
         if name:
-            pyplot.savefig(name, dpi = 150)
+            pyplot.savefig(name, dpi = 600)
 
         plt.tight_layout()
         plt.cla()
@@ -465,6 +457,14 @@ for key, filename in file_patterns.items():
     else:
         print(f"No file found at: {file_path}")
         sys.exit("Exit the program.")
+
+folder_name = "fig"
+
+if not os.path.exists(folder_name):
+    os.makedirs(folder_name)
+    print(f"폴더 '{folder_name}'가 생성되었습니다.")
+else:
+    print(f"폴더 '{folder_name}'가 이미 존재합니다.")
 
 time = len(cri_info)
 dcpa1_list = []
@@ -630,11 +630,12 @@ for i in range(data_len):
     C9x = collision_cone[17]
     C9y = collision_cone[16]
 
-    aa = Visualization(Xo, Xo_list, Yo, Yo_list, Co, 
+    aa = Visualization(ship_L/scale, ship_B/scale, Xo, Xo_list, Yo, Yo_list, Co, 
     Xt1, Xt1_list, Yt1, Yt1_list, Xt2, Xt2_list, Yt2, Yt2_list, Xt3, Xt3_list, Yt3, Yt3_list,
     Ct1, Ct2, Ct3, rf1, ra1, rs1, rp1, rf2, ra2, rs2, rp2, rf3, ra3, rs3, rp3,  Vx, Vy,
     C1x, C1y, C2x, C2y, C3x, C3y, C4x, C4y, C5x, C5y, C6x, C6y, C7x, C7y, C8x, C8y, C9x, C9y, 
     dcpa1_list, dcpa2_list, dcpa3_list, tcpa1_list, tcpa2_list, tcpa3_list, cri1_list, cri2_list, cri3_list, Heading_list, time)
     
     print(round(i/len(frm_info)*100,2),"%")
-    Save_image = aa.ploting(name='fig/snap%s.png'%str(i))
+    
+    Save_image = aa.ploting(name=f'{folder_name}/snap{str(i)}.png')
