@@ -185,6 +185,7 @@ class Visualization:
 
 ###################### 1사분면 그림 ######################
 
+        # modify
         width = 40
         height = 40
 
@@ -343,6 +344,7 @@ class Visualization:
         plt.cla()
         plt.close()
 
+# modify
 ship_L = 163.55
 ship_B = 27.4
 scale = 70
