@@ -1,0 +1,35 @@
+
+{
+
+
+    "SD_param":3,
+    "cri_param":250,
+    "Portside_rule":true,
+    "weight_focusObs":1,
+    "weight_agressivness":1,
+    "timeHorizon":30,
+    "filter_length":10,
+
+    "min_targetSpeed":3,
+    "max_targetSpeed":7,
+    "num_targetSpeedCandidates":5,
+
+    "min_targetHeading_deg_local":-60.0,
+    "max_targetHeading_deg_local":60.0,
+    "num_targetHeadingCandidates":61,
+
+    "delta_t":40,
+    "detecting_radious":100,
+    "detecting_distance":40,
+    "space_number":20, 
+    "cri_ratio": 84.2,
+    "standard_speed":10.0,
+
+    "ship_L":163.55,
+    "ship_B":27.4,
+    "ship_scale":70,
+    "target_speed":15.5
+
+
+
+}
