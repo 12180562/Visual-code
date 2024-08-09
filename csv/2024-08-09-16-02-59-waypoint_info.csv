@@ -1,0 +1,4621 @@
+time,.header.seq,.header.stamp.secs,.header.stamp.nsecs,.header.frame_id,.group_wpts_info
+2024/08/09/16:02:59.985324,15,1,500251770,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:00.083764,16,1,600165844,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:00.183872,17,1,700184822,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:00.283058,18,1,800183296,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:00.384212,19,1,900173903,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:00.484126,20,2,180245,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:00.583910,21,2,100179911,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:00.684807,22,2,200177431,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:00.783503,23,2,300176859,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:00.883191,24,2,400186539,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:00.984844,25,2,500201225,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:01.084293,26,2,600192547,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:01.183568,27,2,700189591,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:01.284054,28,2,800172568,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:01.382640,29,2,900177956,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:01.484922,30,3,186920,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:01.584982,31,3,100188017,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:01.683799,32,3,200180292,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:01.783907,33,3,300189018,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:01.884831,34,3,400194168,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:01.984946,35,3,500203371,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:02.084615,36,3,600194931,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:02.183535,37,3,700190544,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:02.283355,38,3,800275803,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:02.383931,39,3,900191784,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:02.484541,40,4,190020,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:02.582416,41,4,100173950,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:02.684348,42,4,200161696,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:02.782604,43,4,300185919,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:02.884573,44,4,400200606,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:02.983049,45,4,500185251,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:03.085302,46,4,600183249,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:03.186362,47,4,700184584,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:03.283462,48,4,800173283,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:03.383986,49,4,900169373,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:03.484292,50,5,175953,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:03.584765,51,5,100262404,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:03.682096,52,5,200173378,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:03.783156,53,5,300160885,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:03.885161,54,5,400246382,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:03.984765,55,5,500207901,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:04.083765,56,5,600205183,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:04.183302,57,5,700209379,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:04.283618,58,5,800220966,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:04.383779,59,5,900189400,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:04.483474,60,6,177622,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:04.582262,61,6,100159407,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:04.682971,62,6,200163365,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:04.783027,63,6,300162077,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:04.883007,64,6,400161028,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:04.983261,65,6,500169754,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:05.083196,66,6,600161791,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:05.182755,67,6,700198174,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:05.282951,68,6,800174713,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:05.382212,69,6,900195599,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:05.483711,70,7,187636,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:05.582896,71,7,100164652,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:05.683241,72,7,200170040,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:05.783390,73,7,300174952,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:05.884254,74,7,400188446,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:05.983910,75,7,500192166,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:06.083021,76,7,600202561,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:06.183184,77,7,700176954,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:06.283033,78,7,800175905,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:06.383909,79,7,900191069,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:06.482884,80,8,194550,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:06.583679,81,8,100196839,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:06.684982,82,8,200191260,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:06.783931,83,8,300197363,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:06.883377,84,8,400186062,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:06.983478,85,8,500186205,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:07.083289,86,8,600173712,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:07.183287,87,8,700168133,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:07.284204,88,8,800190210,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:07.382439,89,8,900160790,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:07.482013,90,9,161648,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:07.583370,91,9,100207567,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:07.683754,92,9,200168848,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:07.783230,93,9,300178766,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:07.885015,94,9,400173903,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:07.984138,95,9,500196934,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:08.083634,96,9,600206137,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:08.184501,97,9,700187206,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:08.284472,98,9,800201893,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:08.384855,99,9,900208950,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:08.483924,100,10,187159,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:08.584983,101,10,100186348,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:08.684343,102,10,200192928,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:08.783558,103,10,300192833,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:08.882168,104,10,400167704,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:08.983534,105,10,500160456,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:09.083600,106,10,600166559,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:09.182601,107,10,700171471,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:09.283268,108,10,800164461,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:09.383219,109,10,900173903,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:09.484909,110,11,170231,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:09.583274,111,11,100178242,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:09.684319,112,11,200183392,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:09.783678,113,11,300188542,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:09.882494,114,11,400166035,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:09.983356,115,11,500187874,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:10.083867,116,11,600191355,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:10.182887,117,11,700188637,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:10.284587,118,11,800200462,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:10.385174,119,11,900212765,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:10.484977,120,12,217199,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:10.584028,121,12,100183249,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:10.684327,122,12,200193882,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:10.784389,123,12,300191403,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:10.883806,124,12,400188208,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:10.982098,125,12,500168324,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:11.084137,126,12,600214481,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:11.183916,127,12,700181961,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:11.282041,128,12,800165177,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:11.383370,129,12,900170326,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:11.483530,130,13,184298,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:11.584438,131,13,100185394,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:11.682325,132,13,200171471,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:11.784446,133,13,300172806,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:11.881738,134,13,400177479,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:11.983520,135,13,500200272,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:12.083480,136,13,600262165,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:12.182161,137,13,700177431,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:12.283584,138,13,800194264,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:12.382627,139,13,900174856,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:12.481961,140,14,163555,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:12.582307,141,14,100160122,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:12.683964,142,14,200178862,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:12.782254,143,14,300162077,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:12.884346,144,14,400176048,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:12.983069,145,14,500210285,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:13.082692,146,14,600154400,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:13.185443,147,14,700201035,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:13.282676,148,14,800234556,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:13.382199,149,14,900155306,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:13.483452,150,15,169993,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:13.584115,151,15,100189448,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:13.682417,152,15,200177193,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:13.783880,153,15,300171852,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:13.883956,154,15,400185585,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:13.982094,155,15,500171423,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:14.083630,156,15,600203276,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:14.183058,157,15,700180054,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:14.282155,158,15,800155878,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:14.383809,159,15,900171280,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:14.482261,160,16,173807,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:14.584492,161,16,100201607,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:14.684239,162,16,200221062,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:14.783137,163,16,300189495,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:14.883740,164,16,400189400,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:14.984089,165,16,500194311,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:15.084022,166,16,600192547,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:15.184986,167,16,700207472,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:15.284609,168,16,800190687,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:15.385157,169,16,900225878,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:15.484203,170,17,190258,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:15.583893,171,17,100197077,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:15.685154,172,17,200187445,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:15.784765,173,17,300184488,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:15.883026,174,17,400162459,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:15.982884,175,17,500270128,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:16.082199,176,17,600163221,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:16.184197,177,17,700173617,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:16.284225,178,17,800193310,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:16.384160,179,17,900200367,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:16.484129,180,18,193119,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:16.583910,181,18,100192309,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:16.683556,182,18,200186014,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:16.783917,183,18,300179720,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:16.883003,184,18,400187731,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:16.985026,185,18,500286102,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:17.083723,186,18,600176335,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:17.185410,187,18,700177431,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:17.284284,188,18,800205708,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:17.383938,189,18,900196552,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:17.483535,190,19,176430,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:17.583751,191,19,100188971,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:17.683706,192,19,200179339,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:17.785572,193,19,300189018,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:17.884060,194,19,400258780,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:17.984551,195,19,500192642,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:18.083530,196,19,600181341,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:18.184626,197,19,700280666,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:18.284199,198,19,800196409,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:18.383190,199,19,900173903,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:18.483903,200,20,172138,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:18.583034,201,20,100178003,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:18.684166,202,20,200170279,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:18.785023,203,20,300178528,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:18.884295,204,20,400189638,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:18.985259,205,20,500200987,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:19.084527,206,20,600207567,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:19.183114,207,20,700184584,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:19.283937,208,20,800201893,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:19.383014,209,20,900183916,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:19.482574,210,21,190497,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:19.582425,211,21,100163937,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:19.683313,212,21,200200796,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:19.784172,213,21,300196171,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:19.885418,214,21,400182486,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:19.985022,215,21,500192642,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:20.084240,216,21,600276947,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:20.184528,217,21,700186968,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:20.281998,218,21,800167322,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:20.382336,219,21,900156737,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:20.482903,220,22,176191,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:20.582769,221,22,100159884,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:20.684787,222,22,200198650,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:20.783457,223,22,300178766,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:20.882973,224,22,400171995,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:20.984308,225,22,500172854,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:21.083015,226,22,600172997,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:21.182884,227,22,700177908,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:21.283253,228,22,800179482,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:21.382250,229,22,900159598,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:21.482583,230,23,154972,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:21.582211,231,23,100156546,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:21.682826,232,23,200170279,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:21.783081,233,23,300191641,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:21.885103,234,23,400183439,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:21.982463,235,23,500163794,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:22.084309,236,23,600157976,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:22.182621,237,23,700159788,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:22.283328,238,23,800212860,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:22.383137,239,23,900161266,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:22.482759,240,24,181198,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:22.584225,241,24,100186587,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:22.682655,242,24,200163603,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:22.782882,243,24,300164700,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:22.883242,244,24,400171757,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:22.982232,245,24,500170469,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:23.083903,246,24,600184441,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:23.184257,247,24,700195551,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:23.283165,248,24,800185442,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:23.383966,249,24,900185824,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:23.484392,250,25,166178,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:23.584353,251,25,100192785,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:23.684928,252,25,200190067,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:23.783659,253,25,300245047,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:23.884290,254,25,400188923,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:23.981945,255,25,500175238,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:24.085345,256,25,600194454,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:24.184726,257,25,700181484,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:24.283614,258,25,800185681,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:24.384203,259,25,900206804,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:24.484108,260,26,206471,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:24.584396,261,26,100216866,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:24.685498,262,26,200194597,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:24.784072,263,26,300183773,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:24.883933,264,26,400184631,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:24.982790,265,26,500183582,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:25.084597,266,26,600300312,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:25.182418,267,26,700166702,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:25.284060,268,26,800187111,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:25.385829,269,26,900209904,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:25.484614,270,27,171662,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:25.583586,271,27,100175858,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:25.683519,272,27,200180054,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:25.782614,273,27,300207138,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:25.883798,274,27,400188685,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:25.982553,275,27,500177384,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:26.084692,276,27,600177765,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:26.182641,277,27,700177908,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:26.282209,278,27,800159216,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:26.382671,279,27,900226355,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:26.482498,280,28,156403,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:26.581832,281,28,100157976,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:26.684323,282,28,200177193,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:26.783175,283,28,300196171,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:26.882203,284,28,400174379,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:26.985111,285,28,500185490,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:27.083487,286,28,600173950,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:27.183351,287,28,700215340,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:27.284372,288,28,800189734,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:27.383673,289,28,900181532,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:27.484852,290,29,182152,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:27.585516,291,29,100195646,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:27.683230,292,29,200182676,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:27.783452,293,29,300191403,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:27.884985,294,29,400191307,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:27.984750,295,29,500197649,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:28.083788,296,29,600198507,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:28.185357,297,29,700201512,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:28.285007,298,29,800209046,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:28.383246,299,29,900178671,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:28.484467,300,30,212431,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:28.584019,301,30,100210190,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:28.682491,302,30,200177670,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:28.784280,303,30,300187111,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:28.884883,304,30,400192499,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:28.984268,305,30,500208616,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:29.084423,306,30,600201368,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:29.183819,307,30,700201988,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:29.284254,308,30,800185204,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:29.384308,309,30,900187731,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:29.484740,310,31,204563,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:29.584019,311,31,100196362,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:29.681649,312,31,200166941,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:29.784373,313,31,300174952,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:29.884606,314,31,400183201,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:29.983632,315,31,500184775,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:30.083843,316,31,600177765,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:30.185105,317,31,700203419,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:30.283362,318,31,800169468,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:30.383466,319,31,900164127,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:30.484804,320,32,256300,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:30.584527,321,32,100204706,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:30.684599,322,32,200194121,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:30.783619,323,32,300174713,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:30.883940,324,32,400180817,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:30.983462,325,32,500167847,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:31.084695,326,32,600166321,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:31.183677,327,32,700225592,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:31.282546,328,32,800188542,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:31.384109,329,32,900188446,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:31.482297,330,33,175238,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:31.583372,331,33,100160837,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:31.682811,332,33,200181246,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:31.782100,333,33,300164938,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:31.882324,334,33,400154114,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:31.982695,335,33,500155687,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:32.083197,336,33,600166559,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:32.182708,337,33,700178147,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:32.285381,338,33,800184727,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:32.383666,339,33,900173903,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:32.485263,340,34,197411,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:32.583959,341,34,100185394,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:32.685552,342,34,200207234,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:32.783915,343,34,300185442,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:32.884869,344,34,400183916,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:32.982653,345,34,500184775,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:33.083780,346,34,600160837,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:33.183293,347,34,700181484,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:33.282790,348,34,800259352,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:33.383916,349,34,900182247,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:33.481580,350,35,164271,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:33.582818,351,35,100227118,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:33.683050,352,35,200232983,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:33.783626,353,35,300170660,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:33.884555,354,35,400175572,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:33.983339,355,35,500170708,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:34.084833,356,35,600233317,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:34.184767,357,35,700179577,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:34.284218,358,35,800176144,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:34.385074,359,35,900169134,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:34.485048,360,36,176430,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:34.585452,361,36,100221396,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:34.685064,362,36,200213909,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:34.784516,363,36,300209522,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:34.884207,364,36,400204420,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:34.983803,365,36,500180006,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:35.084555,366,36,600180864,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:35.183346,367,36,700175524,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:35.284271,368,36,800185919,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:35.384291,369,36,900200844,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:35.484392,370,37,191212,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:35.583640,371,37,100210190,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:35.683314,372,37,200180292,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:35.784481,373,37,300189257,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:35.884421,374,37,400198937,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:35.983503,375,37,500183582,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:36.084473,376,37,600194931,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:36.183830,377,37,700195551,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:36.284185,378,37,800177574,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:36.384207,379,37,900181770,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:36.484730,380,38,175476,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:36.583900,381,38,100196362,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:36.686495,382,38,200182915,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:36.785647,383,38,300205469,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:36.882807,384,38,400175572,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:36.984204,385,38,500286102,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:37.084764,386,38,600209713,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:37.184867,387,38,700182915,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:37.283159,388,38,800245285,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:37.383347,389,38,900201082,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:37.483983,390,39,293255,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:37.583670,391,39,100164890,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:37.683480,392,39,200175524,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:37.782549,393,39,300181866,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:37.882479,394,39,400177002,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:37.983392,395,39,500167132,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:38.083390,396,39,600178242,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:38.184179,397,39,700185299,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:38.284386,398,39,800188542,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:38.384084,399,39,900209665,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:38.484534,400,40,199795,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:38.584632,401,40,100204945,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:38.684926,402,40,200210333,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:38.784878,403,40,300192833,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:38.883276,404,40,400172234,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:38.984284,405,40,500180721,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:39.084152,406,40,600188255,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:39.184088,407,40,700196266,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:39.284175,408,40,800185204,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:39.383669,409,40,900177956,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:39.485405,410,41,241041,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:39.584365,411,41,100207567,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:39.684470,412,41,200201988,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:39.783869,413,41,300189495,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:39.884985,414,41,400197745,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:39.984467,415,41,500200272,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:40.082791,416,41,600178480,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:40.184027,417,41,700219631,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:40.285101,418,41,800173521,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:40.382544,419,41,900169373,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:40.483185,420,42,187159,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:40.585719,421,42,100213289,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:40.684212,422,42,200239420,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:40.785447,423,42,300192833,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:40.883021,424,42,400187493,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:40.984756,425,42,500234604,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:41.086234,426,42,600195646,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:41.183523,427,42,700172424,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:41.283932,428,42,800251484,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:41.384634,429,42,900181294,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:41.485175,430,43,196695,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:41.582772,431,43,100173950,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:41.684646,432,43,200194836,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:41.784429,433,43,300182343,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:41.884295,434,43,400185347,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:41.983668,435,43,500171900,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:42.084582,436,43,600181341,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:42.182144,437,43,700174570,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:42.284008,438,43,800188303,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:42.384274,439,43,900183201,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:42.483372,440,44,181198,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:42.584108,441,44,100189686,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:42.684098,442,44,200188637,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:42.783741,443,44,300182343,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:42.883913,444,44,400173187,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:42.982937,445,44,500159741,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:43.082569,446,44,600204945,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:43.184448,447,44,700251103,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:43.282099,448,44,800160408,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:43.382127,449,44,900146961,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:43.482893,450,45,163078,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:43.584266,451,45,100188732,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:43.683331,452,45,200198650,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:43.782721,453,45,300193072,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:43.881857,454,45,400153637,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:43.982510,455,45,500167370,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:44.083673,456,45,600175619,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:44.184381,457,45,700170994,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:44.282148,458,45,800175905,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:44.383348,459,45,900168419,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:44.484025,460,46,188589,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:44.584205,461,46,100192547,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:44.684727,462,46,200199366,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:44.785918,463,46,300215006,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:44.883936,464,46,400177002,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:44.985524,465,46,500340700,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:45.083976,466,46,600200176,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:45.184776,467,46,700203419,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:45.282772,468,46,800186396,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:45.384546,469,46,900180578,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:45.483917,470,47,177384,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:45.584180,471,47,100190878,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:45.683939,472,47,200186730,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:45.783267,473,47,300221920,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:45.884091,474,47,400192976,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:45.984124,475,47,500169993,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:46.082367,476,47,600179911,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:46.183501,477,47,700178147,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:46.284694,478,47,800199509,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:46.384321,479,47,900204897,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:46.485059,480,48,197411,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:46.583727,481,48,100180626,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:46.684084,482,48,200176478,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:46.783626,483,48,300173521,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:46.881875,484,48,400178194,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:46.984769,485,48,500175715,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:47.084053,486,48,600195885,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:47.184595,487,48,700185776,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:47.284484,488,48,800192356,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:47.384636,489,48,900202751,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:47.483891,490,49,197649,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:47.583220,491,49,100176335,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:47.684974,492,49,200176001,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:47.784367,493,49,300193548,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:47.885096,494,49,400233984,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:47.983928,495,49,500178576,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:48.083120,496,49,600171328,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:48.184623,497,49,700199843,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:48.284581,498,49,800173998,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:48.381777,499,49,900178671,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:48.485128,500,50,224829,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:48.583781,501,50,100242376,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:48.685113,502,50,200174809,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:48.782248,503,50,300199509,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:48.885419,504,50,400224924,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:48.986495,505,50,500199795,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:49.083827,506,50,600191832,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:49.183353,507,50,700259209,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:49.285464,508,50,800192118,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:49.382866,509,50,900181055,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:49.483301,510,51,224829,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:49.584749,511,51,100181103,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:49.681984,512,51,200159311,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:49.782818,513,51,300168753,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:49.886275,514,51,400183678,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:49.984946,515,51,500201464,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:50.084044,516,51,600182772,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:50.183701,517,51,700186014,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:50.283106,518,51,800182104,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:50.384342,519,51,900177002,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:50.482361,520,52,160456,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:50.582322,521,52,100182057,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:50.682961,522,52,200151682,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:50.782835,523,52,300183535,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:50.883173,524,52,400173426,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:50.983213,525,52,500182390,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:51.082202,526,52,600159645,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:51.182480,527,52,700170279,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:51.283516,528,52,800156117,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:51.382941,529,52,900164604,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:51.482524,530,53,173569,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:51.584162,531,53,100177288,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:51.682520,532,53,200164318,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:51.782951,533,53,300204277,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:51.885653,534,53,400261402,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:51.982936,535,53,500184059,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:52.082381,536,53,600154400,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:52.183333,537,53,700252295,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:52.283853,538,53,800167799,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:52.383646,539,53,900244951,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:52.485603,540,54,205279,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:52.582096,541,54,100164890,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:52.684130,542,54,200193644,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:52.782687,543,54,300166369,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:52.883802,544,54,400206566,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:52.982655,545,54,500169516,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:53.083365,546,54,600174189,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:53.183778,547,54,700174093,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:53.283321,548,54,800168276,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:53.382835,549,54,900176048,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:53.482395,550,55,174046,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:53.583953,551,55,100160599,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:53.683056,552,55,200162888,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:53.784014,553,55,300193548,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:53.883088,554,55,400154829,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:53.982373,555,55,500168800,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:54.083716,556,55,600178242,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:54.184484,557,55,700191498,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:54.282938,558,55,800237894,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:54.384160,559,55,900209665,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:54.483539,560,56,210524,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:54.582729,561,56,100240469,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:54.684666,562,56,200181961,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:54.782814,563,56,300176382,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:54.883372,564,56,400228739,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:54.985370,565,56,500258684,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:55.084959,566,56,600189209,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:55.183961,567,56,700181246,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:55.285278,568,56,800306797,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:55.385584,569,56,900166750,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:55.482109,570,57,179768,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:55.584491,571,57,100177050,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:55.683499,572,57,200155974,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:55.781858,573,57,300161600,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:55.883184,574,57,400150776,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:55.983449,575,57,500174761,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:56.082078,576,57,600166798,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:56.183905,577,57,700169325,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:56.282001,578,57,800170183,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:56.383657,579,57,900248051,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:56.484039,580,58,169516,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:56.582603,581,58,100161791,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:56.683406,582,58,200169563,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:56.784087,583,58,300168038,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:56.882280,584,58,400165081,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:56.984678,585,58,500187159,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:57.083228,586,58,600189448,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:57.183706,587,58,700181961,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:57.283115,588,58,800172091,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:57.383107,589,58,900168181,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:57.482283,590,59,169993,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:57.584018,591,59,100184918,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:57.682201,592,59,200167179,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:57.783985,593,59,300171137,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:57.884197,594,59,400187969,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:57.984512,595,59,500194788,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:58.083690,596,59,600183010,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:58.184299,597,59,700177670,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:58.283250,598,59,800169468,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:58.384849,599,59,900187254,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:58.483644,600,60,264168,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:58.583442,601,60,100167990,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:58.684365,602,60,200171948,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:58.785569,603,60,300215960,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:58.884263,604,60,400186062,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:58.982851,605,60,500204563,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:59.084355,606,60,600170374,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:59.183956,607,60,700195789,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:59.284965,608,60,800227881,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:59.382314,609,60,900181770,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:59.485483,610,61,238657,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:59.583094,611,61,100182295,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:59.684310,612,61,200186968,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:59.781895,613,61,300158739,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:59.883724,614,61,400168657,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:03:59.984298,615,61,500186205,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:00.084474,616,61,600192547,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:00.184709,617,61,700197220,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:00.285670,618,61,800189972,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:00.384398,619,61,900187254,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:00.483690,620,62,176430,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:00.584936,621,62,100171805,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:00.682743,622,62,200171471,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:00.783348,623,62,300161123,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:00.881873,624,62,400160551,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:00.982252,625,62,500158548,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:01.083065,626,62,600245237,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:01.184388,627,62,700180531,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:01.283244,628,62,800171852,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:01.384522,629,62,900183201,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:01.482203,630,63,162840,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:01.582621,631,63,100175142,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:01.683893,632,63,200177193,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:01.784732,633,63,300195933,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:01.884256,634,63,400185824,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:01.983009,635,63,500173569,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:02.085150,636,63,600193262,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:02.184078,637,63,700181484,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:02.285166,638,63,800182581,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:02.385585,639,63,900197745,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:02.484597,640,64,180006,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:02.585144,641,64,100195885,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:02.684668,642,64,200191498,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:02.783753,643,64,300173044,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:02.883310,644,64,400170088,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:02.984507,645,64,500167847,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:03.083813,646,64,600184202,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:03.185963,647,64,700247765,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:03.285517,648,64,800188780,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:03.383431,649,64,900179625,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:03.485022,650,65,188828,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:03.584102,651,65,100198746,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:03.684587,652,65,200187922,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:03.784441,653,65,300178766,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:03.886088,654,65,400196552,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:03.984152,655,65,500193596,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:04.084718,656,65,600256205,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:04.185076,657,65,700168133,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:04.283783,658,65,800177574,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:04.384661,659,65,900182486,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:04.484594,660,66,171662,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:04.585685,661,66,100183964,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:04.684495,662,66,200172663,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:04.782434,663,66,300169468,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:04.884051,664,66,400175095,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:04.986239,665,66,500294209,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:05.084788,666,66,600172520,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:05.183433,667,66,700173617,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:05.285688,668,66,800242663,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:05.382284,669,66,900175333,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:05.484695,670,67,182867,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:05.584865,671,67,100185871,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:05.683948,672,67,200181723,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:05.783663,673,67,300178290,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
+2024/08/09/16:04:05.883925,674,67,400194883,group waypoint list,"[shipID: 1000
+wpts_x: [300.0, 0.0]
+wpts_y: [0.0, 0.0]
+target_spd: [1.0, 1.0], shipID: 2001
+wpts_x: [150.0, 150.0]
+wpts_y: [0.0, 150.0]
+target_spd: [1.0, 1.0]]"
